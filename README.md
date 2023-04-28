@@ -1,16 +1,41 @@
-### Hi there 👋
+## General
+```toml
+[personal]
+first_name = 'Léonard'
+last_name = 'Krief'
+nationality = 'french'
+status = 'developper'
+centers_of_interests = ['ML/AI coding', 'ML/AI maths', 'automatization', 'embedded systems', 'project euler']
+prefered_languages = [C/C++, Python]
+favorite_book = 'Histoire de ma Vie' by Casanova
 
-<!--
-**leonardkrief/leonardkrief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[education]
+'Applied Maths' (MS) (2019)
+'Finance' (MS) (2023)
 
-Here are some ideas to get you started:
+[extra]
+hobbies = ['thaï boxing', 'cinema']
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# William Kaiser
+
+[Personal Website](https://wkaisertexas.github.io)
+
+## General
+```toml
+[personal]
+first_name = 'William'
+last_name = 'Kaiser'
+prefered_language = 'python'
+pronouns = ['he', 'him']
+favorite_book = 'Don Quixote'
+
+[education]
+major = 'Computer Science (BS)'
+minor = 'Data Science'
+graduation_year = 2025
+
+[extra]
+hoobies = ['woodworking', 'electronics', 'cooking', 'coding']
+```
