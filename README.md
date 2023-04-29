@@ -14,5 +14,5 @@ favorite_book = 'Histoire de ma Vie' by Casanova
 'Finance (MS)' (2023)
 
 [extra]
-hobbies = ['thaï boxing', 'cinema']
+hobbies = ['thaï boxing', 'movies']
 ```
