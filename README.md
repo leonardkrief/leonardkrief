@@ -4,15 +4,15 @@
 first_name = 'leonard'
 last_name = 'krief'
 nationality = 'french'
-status = 'developper'
-centers_of_interests = ['problem solving', 'automatization', 'entrepreunership']
-prefered_languages = ['C/C++', 'Python']
-favorite_book = 'Histoire de ma Vie' by Casanova
+status = 'engineer'
+centers_of_interests = ['entrepreunership', 'software architecture', 'problem solving']
+prefered_languages = ['python', 'rust', 'vue3', 'laravel', 'c/c++']
 
 [education]
-'Applied Maths (MS)' (2019)
-'Finance (MS)' (2023)
+'applied Maths (ms)' (2019)
+'finance (ms)' (2023)
 
 [extra]
 hobbies = ['muay thai', 'movies']
+favorite_book = 'histoire de ma vie by casanova'
 ```
