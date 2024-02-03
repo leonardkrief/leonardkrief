@@ -9,7 +9,7 @@ centers_of_interests = ['entrepreunership', 'software architecture', 'problem so
 prefered_languages = ['python', 'rust', 'vue3', 'laravel', 'c/c++']
 
 [education]
-'applied Maths (ms)' (2019)
+'applied maths (ms)' (2019)
 'finance (ms)' (2023)
 
 [extra]
